@@ -39,7 +39,7 @@ class DetailScreen extends StatelessWidget {
                               ),
                               const SizedBox(width: 10.0),
                               const Text(
-                                'Detail Buku',
+                                "Detail Buku",
                                 style: TextStyle(
                                   fontSize: 20.0,
                                   fontWeight: FontWeight.bold,
